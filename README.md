@@ -1,5 +1,10 @@
-### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsapse&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on: The OLM Team @ Redhat
+- 🌱 I’m currently learning: the Neovim Lua API to start contributing/writing plugins
+- 📫 How to reach me: nsapse@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 **nsapse/nsapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
