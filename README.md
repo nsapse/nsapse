@@ -1,3 +1,7 @@
+<p align="right"> 
+ <a href="https://www.linkedin.com/in/noah-sapse/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:nsapse@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><p>
+    
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nsapse&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
