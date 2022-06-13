@@ -10,7 +10,7 @@
   </a>
  </p>
 
-- 🔭 I’m currently working on: The OLM Team @ Redhat
+- 🔭 I’m currently working on: The Observability Team @ Alteryx
 - 🌱 I’m currently learning: the Neovim Lua API to start contributing/writing plugins
 - 😄 Pronouns: He/Him
 <!--
