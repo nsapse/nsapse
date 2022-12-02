@@ -10,8 +10,8 @@
   </a>
  </p>
 
-- 🔭 I’m currently working on: Finishing my CS degree at Oregon State
-- 🌱 I’m currently learning: C++ to write an Intel 8080 emulator.
+- 🔭 I’m currently working on: NAND 2 Tetris.
+- 🌱 I’m currently learning: See above.
 - 😄 Pronouns: He/Him
 <!--
 **nsapse/nsapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
